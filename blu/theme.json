@@ -1,0 +1,137 @@
+{
+    "name": "www.fuckyourself.com",
+    "description": "Fuck you bitch",
+    "authors": [
+
+        {
+            "name": "Nova",
+            "id": "1121462604414582835"
+          
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#0b83b3"
+        ],
+        "HEADER_SECONDARY": [
+            "#0b83b3"
+        ],
+        "TEXT_NORMAL": [
+            "#51869c"
+        ],
+        "TEXT_MUTED": [
+            "#547685"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#2faae0"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#43b4e6"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#5ccdff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#86bfd9"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#29404a"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#263840"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#223036"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#223036"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#0d6794"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#2a3f4a"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#29404a"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#263840"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#2a3f4a"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#20403d"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1b3331"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1a2e2c"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#182927"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#187d73"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#0b4c9c"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#0e478c"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#0e478c"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#1d314a"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#1d314a"
+        ],
+        "TEXT_LINK": [
+            "#3f80d1"
+        ],
+        "TEXT_DANGER": [
+            "#cc358d"
+        ],
+        "KEYBOARD": [
+            "#cc358d"
+        ],
+        "CHANNEL_ICON": [
+            "#cc358d"
+        ],
+        "CHAT_BACKGROUND": [
+            "#253c4d"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#1c2d3a",
+        "PRIMARY_100": "#111c24",
+        "PRIMARY_200": "#1f3341",
+        "PRIMARY_300": "#213645",
+        "PRIMARY_360": "#1f3341",
+        "PRIMARY_400": "#213645",
+        "PRIMARY_600": "#253c4d",
+        "PRIMARY_630": "#233949",
+        "PRIMARY_660": "#233949",
+        "PRIMARY_700": "#312438",
+        "PRIMARY_800": "#233949",
+        "BRAND_260": "#1f3341",
+        "BRAND_360": "#1f3341",
+        "BRAND_500": "#1c2d3a",
+        "BRAND_560": "#253c4d",
+        "YELLOW_300": "#735682",
+        "GREEN_600": "#EFDFD7",
+        "RED_400": "#BDA2A2",
+        "WHITE_500": "#EFDFD7",
+        "GREEN_360": "#BDA2A2"
+    },
+    "spec": 2
+}
